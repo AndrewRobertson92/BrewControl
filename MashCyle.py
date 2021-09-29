@@ -4,7 +4,7 @@ import time
 from threading import Thread
 
 
-
+'''
 
 
 class MashCycle:
@@ -61,14 +61,14 @@ mashLength=90*60 #time in seconds
 mashTemp=68
 ToMash=MashCycle(90,25, 1, 0.001,10)
 
-ToMash.warmUP()
-print("ready")
-ToMash.mash()
+#ToMash.warmUP()
+#print("ready")
+#ToMash.mash()
 
 
 
         
-        
+       ''' 
 
 
 
